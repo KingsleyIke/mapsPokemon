@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Location Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyA000maapd5IzaZKmItSCu5BxwmoS1_sc8</string>
+    <string name="height">H:</string>
+    <string name="weight">W:</string>
+    <string name="types">"Types: "</string>
+    <string name="stats">"Stats: "</string>
+    <string name="sprites">"Sprites: "</string>
+    <string name="species">"Species: "</string>
+    <string name="order">"Order: "</string>
+    <string name="movies_list">"Moves List: "</string>
+    <string name="location_area">"Location Area Encounters: "</string>
+    <string name="held_items">"Held Items: "</string>
+    <string name="game_indices">"Game Indices: "</string>
+    <string name="form_list">"Form: "</string>
+    <string name="base_exp">"Base experience: "</string>
+    <string name="abilities">"Abilities: "</string>
+    <string name="refresh">RELOAD</string>
+    <string name="set_limit">SET LIMIT</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_uload_image">UploadImage</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="tap_to_select_image">Tap Icon to Select Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="network_error">Error In Network Connection\nCheck Network Connectivity</string>
+</resources>

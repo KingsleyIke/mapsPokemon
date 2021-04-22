@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7224616826",
+    "firebase_url": "https://location-map-29215-default-rtdb.firebaseio.com",
+    "project_id": "location-map-29215",
+    "storage_bucket": "location-map-29215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7224616826:android:0dc575ca78d74b31be58c3",
+        "android_client_info": {
+          "package_name": "com.kings.locationmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7224616826-bvbet95b5iripterria4413nijdcs8s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU9yDz4rDhZp7GSuMNlIh5HFhCuYAiGVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7224616826-bvbet95b5iripterria4413nijdcs8s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
